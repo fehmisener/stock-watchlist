@@ -53,7 +53,7 @@ export default function Footer() {
         >
           <IconButton
             color="inherit"
-            href="https://github.com/fehmisener/sc-stock-watchlist"
+            href="https://github.com/fehmisener/stock-watchlist"
             target="_blank"
             rel="noopener"
             aria-label="GitHub"

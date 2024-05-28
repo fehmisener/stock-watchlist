@@ -1,4 +1,4 @@
-# SC - Stock Watchlist Frontend
+# Stock Watchlist Frontend
 
 A React-powered basic web application that allows users to create and manage a stock watchlist User-friendly interface, easy-to-use, Java SpringBoot backend.
 
@@ -27,7 +27,7 @@ A React-powered basic web application that allows users to create and manage a s
 **Clone the Repository**:
 
 ```bash
-git clone https://github.com/fehmisener/sc-stock-watchlist.git
+git clone https://github.com/fehmisener/stock-watchlist.git
 ```
 
 Do not forget to change directory according to the frontend or backend.
