@@ -40,10 +40,10 @@ Do not forget to change directory according to the frontend or backend.
     npm install
     ```
 
-2. **Start the Aplication**:
+> [!WARNING]
+> Do not forget to change the API key in the `.env` file with your own key.
 
-  > [!WARNING]
-  > Do not forget to change the API key in the `.env` file with your own key.
+2. **Start the Application**:
 
     ```bash
     npm run dev
