@@ -42,8 +42,8 @@ Do not forget to change directory according to the frontend or backend.
 
 2. **Start the Aplication**:
 
-    > [!WARNING]
-    > Do not forget to change the API key in the `.env` file with your own key.
+  > [!WARNING]
+  > Do not forget to change the API key in the `.env` file with your own key.
 
     ```bash
     npm run dev
